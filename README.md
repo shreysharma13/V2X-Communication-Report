@@ -1,4 +1,4 @@
-# V2X-Overview-Report
+# V2X-Communication-Report
 
 This report presents an extensive analysis of the evolution, challenges, and advancements in Vehicle-to-Everything (V2X) communication networks. Focusing on the integration of V2X with 5G and 6G technologies, the report examines the standards, use cases, and applications within the V2X ecosystem. It explores critical aspects of network challenges, security, trust management, and privacy concerns that are vital for ensuring the reliability and safety of V2X systems. Additionally, the report provides insights into the strategies and mechanisms employed to enhance the integrity and performance of V2X communication. By addressing open problems and future directions, this report contributes to the ongoing research and development in the field of intelligent transportation systems and V2X communication networks.
 
